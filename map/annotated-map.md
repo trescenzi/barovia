@@ -13,6 +13,7 @@ place. See the [journal]() for more detail about what happened at each location.
   - Found Irenia
   - Met a priest(Donavich) who suggested you take Irena to Krezek. You also met his son Doru who is a vampire spawn. You
     left him alive in Donavich's basement at his behest.
+
 ## B
 ### The Vistani Camp
   Here you encountered the Vistani for the first time. Here Madam Eva read your [fortune](../notes/fortune.md).

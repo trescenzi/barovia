@@ -4,3 +4,4 @@ The following are chronicles of the attempts to overthrow Strahd by a merry band
 journey in November of 2017.
 
 - [An annotated map of what's known by the adventurers](map/annotated-map.md)
+- [The fortune told by the Vistani](notes/fortune.md)

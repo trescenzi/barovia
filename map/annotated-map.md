@@ -1,3 +1,11 @@
+# An Annotated Look at Barovia
+
+The following is a map annotated with what the party knows about including a small amount of information about each
+place. See the [journal]() for more detail about what happened at each location.
+
+[map of barovia](barovia.jpg)
+
+
 - A
   #### The Village of Barovia
   This is the town you setup shop in when you first arrived. Here you did a few things:

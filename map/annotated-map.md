@@ -3,7 +3,7 @@
 The following is a map annotated with what the party knows about including a small amount of information about each
 place. See the [journal]() for more detail about what happened at each location.
 
-[map of barovia](barovia.jpg)
+![map of barovia](barovia.jpg)
 
 
 - A
